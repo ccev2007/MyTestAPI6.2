@@ -1,0 +1,7 @@
+# .gitignore file
+
+/src/MyTestAPI6.2/MyTestAPI6.2/bin
+/src/MyTestAPI6.2/MyTestAPI6.2/obj
+/src/MyTestAPI6.2/MyTestAPI6.2UnitTest/bin
+/src/MyTestAPI6.2/MyTestAPI6.2UnitTest/obj
+/src/MyTestAPI6.2/.vs
